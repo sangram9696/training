@@ -1,0 +1,41 @@
+  .nav-bar{
+    margin-bottom: 5px;
+    text-align: center;
+  }
+  .big-heading{
+    border:1px solid #000000;
+    margin-bottom: 5px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .feature-icon{
+    margin-bottom: 5px;
+    padding: 0;
+  }
+  .feature-icon-inner-div{
+    border:1px solid #000000;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px; 
+  }
+
+  .feature-text{
+    margin-bottom: 5px;
+    padding: 0;
+  }
+  .feature-text-inner-div{
+    border:1px solid #000000;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px; 
+  }
+.footer {
+    bottom: 0;
+    width: 100%;
+    background-color: #f5f5f5;
+    text-align: center;
+}
+.nav-bar{
+  padding:0px;
+}
